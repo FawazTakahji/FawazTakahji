@@ -25,5 +25,3 @@
 <div>
   <img style="100%" src="assets/footer.svg"  />
 </div>
-
-###
